@@ -1,0 +1,46 @@
+body{
+    font-family: Arial, sans-serif;
+    margin: 0;
+    background-color: rgb(235, 243, 200);
+}
+header{
+    background-color: rgb(51, 63, 241);
+    color: rgb(253, 253, 253);
+    padding:1em;
+    text-align: center;
+}
+nav a{
+    margin: 0 10px;
+    text-decoration: none;
+    color: rgb(226, 192, 192);
+    font-weight: bold;
+}
+
+nav a hover{
+    text-decoration: underline;
+}
+
+main{
+    padding: 20px;
+    text-align: center;
+}
+
+footer{
+    background-color: aquamarine;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    position: fixed;
+    bottom: 0;
+    width: 100px;
+}
+
+#titolprincipal{
+    font-size: 30px;
+}
+
+.enllaçblau{
+    font-size: 30px;
+}
+
+/*#
